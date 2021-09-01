@@ -1,4 +1,4 @@
-FROM ubuntu:bionic-20200921
+FROM ubuntu:bionic-20210723
 
 ARG VERSION=13.6.1
 
